@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab</string>
+    <string name="update">Обновить</string>
+    <string name="login">Авторизация</string>
+    <string name="fingerprintButton">Войти по отпечатку пальца</string>
+    <string name="passwordHint">Пароль</string>
+    <string name="loginHint">Имя пользователя</string>
+    <string name="signup">Регистрация</string>
+    <string name="signUpButton">Подтвердить</string>
+    <string name="loginButton">Войти</string>
+    <string name="forgot">Забыли пароль?</string>
+    
+    <plurals name="seriesPlurals">
+        <item quantity="zero">сериалов</item>
+        <item quantity="one">%1$d сериал</item>
+        <item quantity="few">%1$d сериала</item>
+        <item quantity="many">%1$d сериалов</item>
+        <item quantity="other">%1$d сериалов</item>
+    </plurals>
+</resources>
